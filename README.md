@@ -1,0 +1,1 @@
+This is Joni's first git project!
